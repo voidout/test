@@ -2,6 +2,22 @@ body {
     background: blue;
 }
 
-a {
+h2 {
+    font-weight: bold;
+    font-family: helvetica;
+    text-transform: capitalize;
     color: #00fa2e;
+}
+
+#good {
+    background-color: whitesmoke;
+    color: #00fa2e;
+    height: 100px;
+    width: 500px;
+    border: 2px solid gray;
+}
+
+#good:focus {
+    background-color: #00fa2e;
+    color: whitesmoke;
 }
