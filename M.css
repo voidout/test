@@ -16,8 +16,3 @@ h2 {
     width: 500px;
     border: 2px solid gray;
 }
-
-#good:focus {
-    background-color: #00fa2e;
-    color: whitesmoke;
-}
